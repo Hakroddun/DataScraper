@@ -7,9 +7,6 @@ import java.awt.geom.Arc2D;
 import java.awt.geom.Area;
 import java.awt.geom.Ellipse2D;
 
-/**
- * Created by gideon on 11/14/2017.
- */
 public class CircularLoadingBar extends BasicProgressBarUI
 {
     @Override public Dimension getPreferredSize(JComponent c) {
